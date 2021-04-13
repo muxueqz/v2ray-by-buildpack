@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /tmp/build/v2raybin
+cd v2raybin
 echo -e -n "$CONFIG_JSON1" > config.json
 echo -e -n "$PORT" >> config.json
 echo -e -n "$CONFIG_JSON2" >> config.json
