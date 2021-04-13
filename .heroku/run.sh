@@ -1,6 +1,7 @@
 #!/bin/sh
 
-VER=4.37.3
+# VER=4.37.3
+VER=4.23.1
 
 mkdir v2raybin
 cd v2raybin
