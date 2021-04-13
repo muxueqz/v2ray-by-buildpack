@@ -1,1 +1,2 @@
-web: sh /tmp/build/entrypoint.sh
+web: ls -alht
+#web: sh /tmp/build/entrypoint.sh
