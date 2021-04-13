@@ -4,6 +4,7 @@ VER=4.37.3
 unzip --help
 curl --help
 
+pwd
 mkdir /v2raybin
 cd /v2raybin
 curl -L -H "Cache-Control: no-cache" -o v2ray.zip https://github.com/v2fly/v2ray-core/releases/download/v$VER/v2ray-linux-64.zip
